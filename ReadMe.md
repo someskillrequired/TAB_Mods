@@ -3,7 +3,7 @@ Instructions
 Download ZXRules.dat
 
 Game directory folder can be located on steam by 
-1. Going to library
+1. Go to steam library
 2. Right click on They Are Billions
 3. Properties
 4. Installed Files
@@ -13,3 +13,6 @@ Place inside game directory folder
 
 Done
 Play Game.
+
+
+Other Mods Will be added here soon.
