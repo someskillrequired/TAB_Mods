@@ -1,0 +1,42 @@
+CHANGES	v 0.1
+	
+Rangers	Vets Have a small aeo attack with a low percent change to light zombies on fire
+	50% more Health
+	"+1 view Range"
+	
+Soilders	Custom Shotgun Attack Added if within range
+	"+1 Range attack to vets"
+	"+2 view Range"
+	
+Lucifer	Can Shoot through walls
+	Can Enter Towers
+	Reduced Noise
+	
+	
+Titans	Small Movement Speed Reduction
+	Small Damage Reduction
+	Larger Attack Area
+	
+Your Mutants 	"Increased Health
+Increased Speed"
+	
+Enemy mutants	Reduced Awareness factor, Fixes "Random" Pulls
+	Pushed min distance Mutants from spawn
+	
+Shocking Tower	Increase Range
+	Decrease Damage
+	Increase Attack Speed
+	
+Gates	"Increase Life so not worthless
+(less than full walls but a lot more than before)"
+	
+Wasp	Build Iron Reduction from 10 to 4
+	
+Map Rebalances	All Maps generate zombies like 900% and all have a difficulty of 900%
+	
+Housing	Only need 2 free cells instead of three
+	act as mini tesla towers expanding range
+	
+New Unit A	Added in for testing still need to configure them(Availible in soilder center)
+	
+New Unit B	Added in for testing still need to configure them(Availible in soilder center)
