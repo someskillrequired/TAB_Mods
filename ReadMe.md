@@ -1,6 +1,10 @@
 Instructions
 
 Download ZXRules.dat
+or
+ZXCampaign.dat
+
+Depending on the mod you want to install.
 
 Game directory folder can be located on steam by 
 1. Go to steam library
